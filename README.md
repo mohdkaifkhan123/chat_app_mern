@@ -22,8 +22,10 @@ This application provides users with the following features
 You can have this application up and running with just a few steps because it has both the frontend and the backend in a single repository. Follow the steps below to do so.
 
 1. Clone this repo
-2. Go to the client folder using the terminal and install dependencies using npm i and for the server go to the parent folder and perform npm i and connect to Mongodb database I use mongodb compass for connection
-5. The frontend of the application will be automatically opened in your web browser and you can test it away.
+2. Go to the client folder using the terminal and install dependencies using npm i and for the server go to the parent folder and perform npm i and for to connect to MongoDB database I use Mongodb compass
+3. The front end of the application will be automatically opened in your web browser and you can test it away.
+4. Please create two to three accounts so that you can check live communication between them
+
 
 
 ### Things to note
